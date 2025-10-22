@@ -1,4 +1,4 @@
+![CrabOS Logo](logo.png)  
 **CrabOS**  
-
-A Magisk Module for LineageOS
+A Magisk Module for LineageOS  
 to add features and extend battery life
