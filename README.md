@@ -1,4 +1,4 @@
-# W.N.V.I.O  
-**Win Environment Opinionator**  
+**CrabOS**  
 
-A tool to customize Windows to fit your needs.
+A Magisk Module for LineageOS
+to add features and extend battery life
